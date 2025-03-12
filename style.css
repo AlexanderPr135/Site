@@ -1,0 +1,16 @@
+body{
+    
+
+}
+ 
+.wrapper {
+    width: wh;
+    background-color: blueviolet;
+    display: flex; justify-content: center;
+    
+}
+.header {
+    width: 900px;
+    height: 200px;
+    background-color: rgb(255, 251, 0);
+}
