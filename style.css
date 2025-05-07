@@ -51,11 +51,12 @@ header {
 .heroText{
     display: flex;
     flex-direction: column;
+    padding: 100px;
 }
 .heroImg{
     width: 580px;
 }
-.heroImg {
+.heroTitle {
     
 
 
