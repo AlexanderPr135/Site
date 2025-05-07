@@ -18,25 +18,30 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
 header {
     display: flex;
     justify-content: space-between;
     width: 100%;
     padding: 20px;
 }
-.actions{
+
+.actions {
     display: flex;
     justify-content: right;
     align-items: center;
     width: 590px;
     gap: 24px;
 }
+
 .login {
     color: white;
 }
+
 .phone {
     color: white;
 }
+
 .start {
     height: 52px;
     width: 141px;
@@ -45,30 +50,45 @@ header {
     border: none;
     border-radius: 25px;
 }
-.hero{
+
+.hero {
     display: flex;
 }
-.heroText{
+
+.heroText {
     display: flex;
     flex-direction: column;
     padding: 100px;
+    gap: 18px;
 }
-.heroImg{
-    width: 580px;
-}
-.heroTitle {
+
+.heroImg {
     
+}
+
+.heroTitle {
 
 
 
-font-family: 'Recoleta';
-font-style: normal;
-font-weight: 600;
-font-size: 48px;
-line-height: 65px;
+
+    font-family: 'Recoleta';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 50px;
 
 
-color: #FBFAF7;
+    color: #FBFAF7;
 
+
+}
+
+.heroDescription {
+
+
+    font-size: 18px;
+
+
+    color: #FBFAF7;
 
 }
